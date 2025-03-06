@@ -1,0 +1,19 @@
+#top1 {
+  text-align: center;
+  background-color: #56007b;
+  color: white;
+}
+nav {
+  background-color: white;;
+}
+form > button {
+  border-radius: 5px 5px 5px 0 !important;
+}
+.item1-text {
+  position: absolute;
+  color: white;
+  z-index: 2;
+}
+.carousel-caption {
+  height: 100%;
+}
